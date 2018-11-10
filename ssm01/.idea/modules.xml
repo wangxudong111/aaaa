@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm.iml" />
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_dao/heima_ssm_dao.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_dao/heima_ssm_dao.iml" />
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_domain/heima_ssm_domain.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_domain/heima_ssm_domain.iml" />
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_service/heima_ssm_service.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_service/heima_ssm_service.iml" />
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_utils/heima_ssm_utils.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_utils/heima_ssm_utils.iml" />
+      <module fileurl="file://D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_web/heima_ssm_web.iml" filepath="D:/就业班视频及播放器/ssm/ssm综合练习_day02/代码/未分页/heima_ssm/heima_ssm_web/heima_ssm_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01.iml" filepath="$PROJECT_DIR$/ssm01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01_dao/ssm01_dao.iml" filepath="$PROJECT_DIR$/ssm01_dao/ssm01_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01_domain/ssm01_domain.iml" filepath="$PROJECT_DIR$/ssm01_domain/ssm01_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01_service/ssm01_service.iml" filepath="$PROJECT_DIR$/ssm01_service/ssm01_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01_untils/ssm01_untils.iml" filepath="$PROJECT_DIR$/ssm01_untils/ssm01_untils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm01_web/ssm01_web.iml" filepath="$PROJECT_DIR$/ssm01_web/ssm01_web.iml" />
+    </modules>
+  </component>
+</project>
